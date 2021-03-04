@@ -6,7 +6,6 @@ public class Question8 {
 
 
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in); //
         System.out.print("All prime number smaller than this number, insert the number:  ");
         int a = sc.nextInt();

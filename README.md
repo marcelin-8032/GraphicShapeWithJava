@@ -1,13 +1,13 @@
 There some patterns in this projects that are based on java codes, 
 here are patterns: 
 
-Pattern 1 :
-1*****
-12****
-123***
-1234**
-12345*
-123456
+Pattern 1 :\
+1*****\
+12****\
+123***\
+1234**\
+12345*\
+123456\
 
 
 Pattern 2: 
